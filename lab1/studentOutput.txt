@@ -1,0 +1,17 @@
+Number of elements: 5
+Name: John | ID: 100 | Age: 18
+Name: Jane | ID: 101 | Age: 18
+Name: Larry | ID: 102 | Age: 20
+Name: Karen | ID: 103 | Age: 20
+Name: Karl | ID: 104 | Age: 21
+
+Name: John | ID: 100 | Age: 18
+Name: Jane | ID: 101 | Age: 18
+
+Name: John | ID: 100 | Age: 18
+Name: Jane | ID: 101 | Age: 18
+Name: Larry | ID: 102 | Age: 20
+Name: Karen | ID: 103 | Age: 20
+Name: Karl | ID: 104 | Age: 21
+Name: Rolf | ID: 200 | Age: 22
+Name: Dan | ID: 201 | Age: 23
